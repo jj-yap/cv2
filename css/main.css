@@ -76,7 +76,7 @@ html, body {
   letter-spacing: 1px; }
 
 .text-small {
-  font-size: 1.2rem; }
+  font-size: .9rem; }
 
 .text-teal {
   color: var(--bs-teal); }
