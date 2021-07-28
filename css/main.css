@@ -291,3 +291,7 @@ body {
 #nav-bar .navbar-brand, .h5, #nav-bar nav{
     font-size: 2rem;
 } */
+
+footer .text-small {
+  font-size: .85rem; 
+}
